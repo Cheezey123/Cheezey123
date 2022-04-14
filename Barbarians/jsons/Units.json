@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Brute",
+		"unitType": "Melee",
+		"uniqueTo": "Barbarian Tribes",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 25,
+		"requiredTech": "Agriculture",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move immediately once bought","No defensive terrain bonus"],
+		"attackSound": "whoosh"
+	},
+
+	{
+		"name": "Marauder",
+		"unitType": "Melee",
+		"uniqueTo": "Barbarian Tribes",
+		"replaces": "Spearman",
+		"movement": 2,
+		"strength": 10,
+		"cost": 50,
+		"requiredTech": "Bronze Working",
+		"upgradesTo": "Pikeman",
+		"uniques": ["Can move immediately once bought","No defensive terrain bonus"],
+		"attackSound": "whoosh"
+	},
+
+	{
+		"name": "Skirmisher",
+		"unitType": "Ranged",
+		"uniqueTo": "Barbarian Tribes",
+		"movement": 2,
+		"strength": 4,
+		"rangedstrength": 7,
+                                     "range": 2,
+		"cost": 35,
+		"requiredTech": "Archery",
+		"replaces": "Archer",
+		"upgradesTo": "Modern Armor",
+		"uniques": ["Can move immediately once bought","No defensive terrain bonus"],
+		"attackSound": "arrow"
+	},
+]

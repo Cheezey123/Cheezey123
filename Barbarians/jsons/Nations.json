@@ -1,0 +1,36 @@
+[
+	{
+		"name": "Barbarian Tribes",
+		"leaderName": "Alaric",
+		"adjective": ["Barbaric"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": "Welcome Alaric, you are the great and well known leader of the barbarians, you will do good for the people of our tribe, and we will dominate and conquer this world, you as the leader will lead us to glory and will forever leave a mark in the history of this world.",
+		"startIntroPart2": "My lord! It is now your job to dominate this world and influence it as much as you can, so that we will be forever remembered in history, if we do not survive...",
+		
+		"declaringWar": "I have made my decision, we must remove your unworthy face out of this planet!",
+		"attacked": "You dare attack my people? You shall pay for this and I promise that I will make you suffer!",
+		"defeated": "You may have defeated me, but our blood will never be lost",
+		"introduction": "Greetings, I am Alaric of the Barbarians, I am hoping that you will not cause any problems for our states.",
+		
+		"neutralHello": "Hello.",
+		"neutralLetsHearIt": ["Hurry up, you are wasting my time.","I am listening.","Hurry up."],
+		"neutralNo": ["No.","Certainly not.","It is not good enough."],
+		"neutralYes": ["Good.","Very well.","This will do."],
+		
+		"hateHello": "What do you want!?",
+		"hateLetsHearIt": ["Spit it out!","What?","Out with it!"],
+		"hateNo": ["Never!","Excuse me?","Get out!"],
+		"hateYes": ["I cannot refuse.","Good enough.","Very well then."],
+		
+		"tradeRequest": "Accept this offer, for this will do good for the both of us.",
+		"outerColor": [ 0, 0, 0],
+		"innerColor": [182,0,0],
+		
+		"uniqueName": "Offering",
+		"uniques": ["Quantity of Resources gifted by City-States increased by [30]%"]
+                                     "cities": ["Visgott","Thicc","Sarmatia","Numid","Liguria","Cimmeria","Mycenia","Minon","Gallia","Gaul","Phyrgia","Tharacia","Etrusca","Phonecia","Jute","Hun","Gepid","Burgundy","Bulgar","Khazak","Magyar","Angles","Goth","Vandal","Saxon","Carib","Navajo","Chehalis","Apacche","Chinuk","Zapotec","Olmec","Teoihuacan","Anasazyi","Cheroki"]
+	},
+]
